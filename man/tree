@@ -1,0 +1,17 @@
+.\" Manpage for ls-tree.
+.\" Contact joel@joelhainley.com to correct errors or typos.
+.TH man 8 "16 May 2021" "1.0" "ls-tree man page"
+.SH NAME
+ls-tree \- dumps directory contents to terminal as tree view
+.SH SYNOPSIS
+ls-tree [path]
+.SH DESCRIPTION
+ls-tree is a high level shell program visualizing a directory hierarchy
+.SH OPTIONS
+The ls-tree does not take any options. However, you can supply username.
+.SH SEE ALSO
+tree(8)
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Joel Hainley (joel@joelhainley.com)
